@@ -26,7 +26,6 @@ This Arduino project demonstrates how to control the brightness of an LED using 
 - Output the PWM signal to control LED brightness via `analogWrite(9, brightness)`  
 - Print voltage and brightness values to the Serial Monitor for real-time observation  
 
-
 ## Key Learnings
 
 - Basic use of `analogRead()` for reading analog input  
